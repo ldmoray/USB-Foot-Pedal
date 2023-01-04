@@ -2,6 +2,8 @@
 @rem Arduino build from command line.
 @rem 24/07/2020 Modified for SparkFun Pro Micro
 @rem
+@rem By RichardDL https://forum.sparkfun.com/viewtopic.php?f=96&t=53770
+@rem
 @rem This uses arduino_debug.exe to compile the sketch, then avrdude to load it to the Pro Micro.  When prompted, press
 @rem the Pro Micro's reset button (that you connected).
 @rem
