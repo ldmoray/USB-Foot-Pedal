@@ -15,7 +15,7 @@ foot_pedal.ino is the Arduino script.
 Pro_Micro_Build.bat is a slightly modified version of the code from https://forum.sparkfun.com/viewtopic.php?f=96&t=53770 that I managed to get working for me.
 
 Instructions for the board:
-If I connected the sleeve to Ground and the Tip to pin 9, then pressed the pedal the signal read 0, and released it it read HIGH.
+If I connected the sleeve to Ground and the Tip to pin 9, then pressed the pedal the signal read 0, and released it read HIGH.
 
 ## Why
 * Cost, mostly: the official Savant Elite2 controller is like 5 times the price of the parts.
